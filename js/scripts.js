@@ -68,6 +68,7 @@ var albums = [
         ]
     }
 ];
+for {(var i = 0; i<nums.length; i++)}
 
 var addToList = function addToList( bookObj ){
     var bookTitleVariable = "<div class='title'><header><h1>" + bookObj.name + "</h1></header></div>";
